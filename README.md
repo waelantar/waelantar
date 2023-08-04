@@ -2,7 +2,7 @@
 <h3 align="center">I am a third-year Tunisian software engineering student with a specialization in software architecture and full-stack development. My passion lies in both creating robust software solutions and ensuring seamless deployment through DevOps practices.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waelantar" alt="waelantar" /></a> </p>
-
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 - 🔭 I’m currently working on **Smartovate(private)**
 
 - 🌱 I’m currently learning **Cloud DevOps.**
