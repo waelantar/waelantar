@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wael Antar</h1>
 <h3 align="center">I am a third-year Tunisian software engineering student with a specialization in software architecture and full-stack development. My passion lies in both creating robust software solutions and ensuring seamless deployment through DevOps practices.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."></img>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"></img>
 - 🔭 I’m currently working on **Smartovate(private)**
 
 - 🌱 I’m currently learning **Cloud DevOps.**
