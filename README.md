@@ -1,38 +1,28 @@
-<h1 align="center">Hi 👋, I'm Wael Antar</h1>
-<h3 align="center">Full Stack Junior Engineer specializing in Java, Spring Boot, and modern web technologies. Passionate about building scalable applications and implementing efficient DevOps practices.</h3>
+# Wael Antar
 
-- 🔭 I'm currently working on AI voice agent integration and real-time data processing systems
-- 🌱 I'm expanding my expertise in AWS cloud architecture and AI/ML technologies
-- 👯 I'm open to collaborating on innovative full-stack projects
-- 💬 Ask me about Spring Boot, Angular, AWS, and microservices architecture
-- 📫 How to reach me: <a href="mailto:antarwael@ieee.org">antarwael@ieee.org</a>
-- 📄 Check out my <a href="https://linkedin.com/in/Wael-Antar">LinkedIn</a> for my professional experience
+Software engineer building **Angular/TypeScript applications for a production voice-AI platform** ([Voxloud](https://www.voxloud.com)) and contributing to **open-source AI agent infrastructure**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Wael-Antar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wael-Antar" height="30" width="40" /></a>
-<a href="https://github.com/WaelAntar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="WaelAntar" height="30" width="40" /></a>
-</p>
+Currently: shipping call-analytics and PBX features by day; working on agent frameworks, LLM inference optimization, and retrieval systems by night. Open to relocation in Western Europe (EU Blue Card eligible).
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=waelantar&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+## Open source
 
-<h3 align="left">Core Technologies:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-</p>
+Contributions to [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (AI agent framework):
 
-<h3 align="left">GitHub Analytics:</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=waelantar&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
+- **Merged** — token-based capping of the history digest in system prompts, replacing character-based limits for consistent context sizing across languages ([#4352](https://github.com/HKUDS/nanobot/pull/4352))
+- **Merged** — normalized sender-ID types at pairing-store boundaries, fixing IDs silently treated as unapproved ([#4433](https://github.com/HKUDS/nanobot/pull/4433))
+- **Reported** a concurrency race in per-run hook handling ([#4408](https://github.com/HKUDS/nanobot/issues/4408)) — fixed and merged by maintainers ([#4425](https://github.com/HKUDS/nanobot/pull/4425))
+- Open: read-only conversation-history search tool ([#4439](https://github.com/HKUDS/nanobot/pull/4439))
+
+Studying the internals of [earendil-works/pi](https://github.com/earendil-works/pi) (TypeScript agent harness) — contributions in progress.
+
+## Selected work
+
+- **[Polyglot Engine](https://github.com/waelantar/scraper)** — multithreaded web crawler in pure-stdlib Python (hand-built thread pool, bounded MPMC queue, robots.txt + rate limiting) feeding a TypeScript CLI through a shared SQLite contract
+- **[ATTS](https://github.com/waelantar/ATTS_Complete_Free_Package)** — Adaptive Test-Time Scaling: difficulty-adaptive LLM inference compute, ~28% token savings at ~2% accuracy cost
+- **nanolm-derja** — pretraining experiments for a small Tunisian-Arabic language model (nanoGPT-style)
+
+## Background
+
+2 years production Angular (17→20 migration, reactive stores, shared component library) · fullstack internships (Spring Boot, Django/Next.js) · AWS Solutions Architect Associate & AI Practitioner · FR/EN C1
+
+📫 [antarwael@ieee.org](mailto:antarwael@ieee.org) · [LinkedIn](https://www.linkedin.com/in/wael-antar/)
