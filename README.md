@@ -1,6 +1,6 @@
 # Wael Antar
 
-Software engineer building **Angular/TypeScript applications for a production voice-AI platform** ([Voxloud](https://www.voxloud.com)) and contributing to **open-source AI agent infrastructure**.
+Software engineer building **Angular/TypeScript applications for a production voice-AI platform** ([Romulus](https://us.romulus.live/)) and contributing to **open-source AI agent infrastructure**.
 
 Currently: shipping call-analytics and PBX features by day; working on agent frameworks, LLM inference optimization, and retrieval systems by night. Open to relocation in Western Europe (EU Blue Card eligible).
 
