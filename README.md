@@ -1,6 +1,6 @@
 # Wael Antar
 
-Software engineer working across **TypeScript product interfaces, API integrations and real-time workflows** for [Romulus](https://us.romulus.live/), a production voice-AI and cloud-PBX platform operating within Voxloud. I also build and document small, testable systems in Python and TypeScript, and contribute to **open-source AI-agent infrastructure**.
+Software engineer working across **TypeScript product interfaces, API integrations and real-time workflows** for [Romulus](https://us.romulus.live/), a production voice-AI and cloud-PBX platform operating within Voxloud. I also build and document testable systems in Python and TypeScript, and contribute to **open-source AI-agent infrastructure**.
 
 I work on call analytics, PBX workflows, integrations and shared frontend architecture. Based in Tunisia and open to employer-sponsored relocation in Western Europe.
 
